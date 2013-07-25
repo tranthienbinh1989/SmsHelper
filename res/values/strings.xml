@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SmsHelper</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Block_Spam">Block</string>
+    <string name="Auto_Delete_Message">Auto Delete</string>
+    <string name="Schedule_Message">Schedule</string>
+
+</resources>
